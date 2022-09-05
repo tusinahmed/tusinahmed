@@ -1,4 +1,4 @@
-![Web Developer](https://i.ibb.co/JyyKzZt/1.png)
+
 ### Hi there 👋, I am Ashraful 
 #### Web Developer
 
