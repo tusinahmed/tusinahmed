@@ -3,7 +3,7 @@
 #### Web Developer
 
 
-I’m a Front End Web developer. I have a passion for learning and sharing my knowledge with others as publicly as possible.  I enjoy working with include  ReactJS, JavaScript as well as PHP.
+I’m a Front End Web developer. I have a passion for learning and sharing my knowledge with others as publicly as possible.  I enjoy working with include  ReactJS, JavaScript, HTML & CSS.
 
 Skills:  JS / REACT / HTML / CSS/ Bootstrap / Tailwind / PHP
 
