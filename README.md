@@ -24,8 +24,4 @@ Skills:  JS / REACT / HTML / CSS/ Bootstrap / Tailwind / PHP
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tusinahmed)  
 
-![GitHub metrics](https://metrics.lecoq.io/tusinahmed)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tusinahmed)  
-
 ![Profile views](https://gpvc.arturio.dev/tusinahmed)  
